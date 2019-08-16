@@ -3591,6 +3591,7 @@ CHEMBL360106,4.1,CCN(C1CCN(CCC(c2ccccc2)c3ccccc3)CC1)C(=O)Cc4ccc(cc4)[N+](=O)[O-
 CHEMBL196516,2.97,Clc1ccc(cc1)c2c[nH]nn2
 CHEMBL2335907,2.73,COc1cc(cc2cnc(Nc3ccc(cc3)[C@@H](C)NC(=O)C)nc12)c4ccncc4
 CHEMBL84597,3.97,CC(C)N1C(=O)N(C)C(=O)c2cn(Cc3cccc4ccccc34)cc12
+CHEMBL387675,-.94,CCCCCCCCCC(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@H]3[C@@H](C)OC(=O)[C@H](CC(=O)c4ccccc4N)NC(=O)[C@@H](NC(=O)[C@@H](CO)NC(=O)CNC(=O)[C@H](CC(=O)O)NC(=O)[C@@H](C)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CCCN)NC(=O)CNC3=O)[C@H](C)CC(=O)O
 CHEMBL1088030,2.68,C[C@H](Nc1nc(Nc2ncc(C)s2)cc(n1)N3CCOCC3)c4ncc(F)cn4
 CHEMBL258176,1.44,CC(C)N1CCN(Cc2cnc(c(C)c2)c3ccc(cc3)C(=O)Nc4ccccc4N)CC1
 CHEMBL723,3.27,COc1ccccc1OCCNCC(O)COc2cccc3[nH]c4ccccc4c23
